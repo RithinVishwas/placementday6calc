@@ -1,0 +1,14 @@
+body{
+    background-image: url(./calc1.jpeg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.main{
+    border: 5px solid black;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+}
